@@ -1,0 +1,76 @@
+
+Stage 1
+=======
+read 10 candidates and 999 votes
+voter 999 preferences...
+    rank  1: Blackpink
+    rank  2: Katseye
+    rank  3: Ive
+    rank  4: Aespa
+    rank  5: NewJeans
+    rank  6: Lesserafim
+    rank  7: Nmixx
+    rank  8: Illit
+    rank  9: Twice
+    rank 10: Babymonster
+
+Stage 2
+=======
+round 1...
+    Blackpink           : 495 votes,  49.5%
+    Illit               :  51 votes,   5.1%
+    Nmixx               :  62 votes,   6.2%
+    Babymonster         :  52 votes,   5.2%
+    Twice               :  63 votes,   6.3%
+    Ive                 :  60 votes,   6.0%
+    Katseye             :  60 votes,   6.0%
+    Aespa               :  48 votes,   4.8%
+    Lesserafim          :  63 votes,   6.3%
+    NewJeans            :  45 votes,   4.5%
+    ----
+    NewJeans is eleminiated and votes distributed
+
+round 2...
+    Blackpink           : 540 votes,  54.1%
+    Illit               :  51 votes,   5.1%
+    Nmixx               :  62 votes,   6.2%
+    Babymonster         :  52 votes,   5.2%
+    Twice               :  63 votes,   6.3%
+    Ive                 :  60 votes,   6.0%
+    Katseye             :  60 votes,   6.0%
+    Aespa               :  48 votes,   4.8%
+    Lesserafim          :  63 votes,   6.3%
+    ----
+    Blackpink is declared elected
+
+
+Stage 3
+=======
+round 1...
+    Blackpink           : 495 votes,  49.5%
+    Lesserafim          :  63 votes,   6.3%
+    Twice               :  63 votes,   6.3%
+    Nmixx               :  62 votes,   6.2%
+    Ive                 :  60 votes,   6.0%
+    Katseye             :  60 votes,   6.0%
+    Babymonster         :  52 votes,   5.2%
+    Illit               :  51 votes,   5.1%
+    Aespa               :  48 votes,   4.8%
+    NewJeans            :  45 votes,   4.5%
+    ----
+    NewJeans is eleminiated and votes distributed
+
+round 2...
+    Blackpink           : 540 votes,  54.1%
+    Lesserafim          :  63 votes,   6.3%
+    Twice               :  63 votes,   6.3%
+    Nmixx               :  62 votes,   6.2%
+    Ive                 :  60 votes,   6.0%
+    Katseye             :  60 votes,   6.0%
+    Babymonster         :  52 votes,   5.2%
+    Illit               :  51 votes,   5.1%
+    Aespa               :  48 votes,   4.8%
+    ----
+    Blackpink is declared elected
+
+tadaa!

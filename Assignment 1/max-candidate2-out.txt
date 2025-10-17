@@ -1,0 +1,80 @@
+
+Stage 1
+=======
+read 20 candidates and 7 votes
+voter 7 preferences...
+    rank  1: Gwen
+    rank  2: Cerydra
+    rank  3: Blackswan
+    rank  4: Cipher
+    rank  5: Silverwolf
+    rank  6: Herta
+    rank  7: Hysilens
+    rank  8: Castorice
+    rank  9: Serahphine
+    rank 10: TopazandNumby
+    rank 11: Marchseventh
+    rank 12: Lilla
+    rank 13: Firefly
+    rank 14: Feixiao
+    rank 15: Sparkles
+    rank 16: Kafka
+    rank 17: Acheon
+    rank 18: Zoe
+    rank 19: Ruanmei
+    rank 20: Jade
+
+Stage 2
+=======
+round 1...
+    Gwen                :   5 votes,  71.4%
+    Zoe                 :   0 votes,   0.0%
+    Serahphine          :   0 votes,   0.0%
+    Lilla               :   0 votes,   0.0%
+    Sparkles            :   0 votes,   0.0%
+    Cipher              :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   1 votes,  14.3%
+    Herta               :   1 votes,  14.3%
+    Ruanmei             :   0 votes,   0.0%
+    ----
+    Gwen is declared elected
+
+
+Stage 3
+=======
+round 1...
+    Gwen                :   5 votes,  71.4%
+    Acheon              :   1 votes,  14.3%
+    Herta               :   1 votes,  14.3%
+    Blackswan           :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Cipher              :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Jade                :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Lilla               :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Serahphine          :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Sparkles            :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Zoe                 :   0 votes,   0.0%
+    Ruanmei             :   0 votes,   0.0%
+    ----
+    Gwen is declared elected
+
+tadaa!

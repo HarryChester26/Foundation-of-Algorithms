@@ -1,0 +1,612 @@
+
+Stage 1
+=======
+read 20 candidates and 2 votes
+voter 2 preferences...
+    rank  1: Jade
+    rank  2: Acheon
+    rank  3: Serahphine
+    rank  4: Marchseventh
+    rank  5: Castorice
+    rank  6: TopazandNumby
+    rank  7: Cipher
+    rank  8: Zoe
+    rank  9: Herta
+    rank 10: Lilla
+    rank 11: Silverwolf
+    rank 12: Firefly
+    rank 13: Sparkles
+    rank 14: Feixiao
+    rank 15: Hysilens
+    rank 16: Kafka
+    rank 17: Cerydra
+    rank 18: Ruanmei
+    rank 19: Gwen
+    rank 20: Blackswan
+
+Stage 2
+=======
+round 1...
+    Gwen                :   0 votes,   0.0%
+    Zoe                 :   0 votes,   0.0%
+    Serahphine          :   0 votes,   0.0%
+    Lilla               :   0 votes,   0.0%
+    Sparkles            :   0 votes,   0.0%
+    Cipher              :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Gwen is eleminiated and votes distributed
+
+round 2...
+    Zoe                 :   0 votes,   0.0%
+    Serahphine          :   0 votes,   0.0%
+    Lilla               :   0 votes,   0.0%
+    Sparkles            :   0 votes,   0.0%
+    Cipher              :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Zoe is eleminiated and votes distributed
+
+round 3...
+    Serahphine          :   0 votes,   0.0%
+    Lilla               :   0 votes,   0.0%
+    Sparkles            :   0 votes,   0.0%
+    Cipher              :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Serahphine is eleminiated and votes distributed
+
+round 4...
+    Lilla               :   0 votes,   0.0%
+    Sparkles            :   0 votes,   0.0%
+    Cipher              :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Lilla is eleminiated and votes distributed
+
+round 5...
+    Sparkles            :   0 votes,   0.0%
+    Cipher              :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Sparkles is eleminiated and votes distributed
+
+round 6...
+    Cipher              :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Cipher is eleminiated and votes distributed
+
+round 7...
+    Castorice           :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Castorice is eleminiated and votes distributed
+
+round 8...
+    Kafka               :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Kafka is eleminiated and votes distributed
+
+round 9...
+    Cerydra             :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Cerydra is eleminiated and votes distributed
+
+round 10...
+    Hysilens            :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Hysilens is eleminiated and votes distributed
+
+round 11...
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Marchseventh is eleminiated and votes distributed
+
+round 12...
+    Silverwolf          :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Silverwolf is eleminiated and votes distributed
+
+round 13...
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Feixiao is eleminiated and votes distributed
+
+round 14...
+    Firefly             :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Firefly is eleminiated and votes distributed
+
+round 15...
+    TopazandNumby       :   0 votes,   0.0%
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    TopazandNumby is eleminiated and votes distributed
+
+round 16...
+    Jade                :   1 votes,  50.0%
+    Blackswan           :   0 votes,   0.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Blackswan is eleminiated and votes distributed
+
+round 17...
+    Jade                :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Acheon is eleminiated and votes distributed
+
+round 18...
+    Jade                :   1 votes,  50.0%
+    Herta               :   0 votes,   0.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Herta is eleminiated and votes distributed
+
+round 19...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Jade is eleminiated and votes distributed
+
+round 20...
+    Ruanmei             :   1 votes, 100.0%
+    ----
+    Ruanmei is declared elected
+
+
+Stage 3
+=======
+round 1...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Cipher              :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Gwen                :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Lilla               :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Serahphine          :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Sparkles            :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Zoe                 :   0 votes,   0.0%
+    ----
+    Gwen is eleminiated and votes distributed
+
+round 2...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Cipher              :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Lilla               :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Serahphine          :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Sparkles            :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    Zoe                 :   0 votes,   0.0%
+    ----
+    Zoe is eleminiated and votes distributed
+
+round 3...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Cipher              :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Lilla               :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Serahphine          :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Sparkles            :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    ----
+    Serahphine is eleminiated and votes distributed
+
+round 4...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Cipher              :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Lilla               :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Sparkles            :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    ----
+    Lilla is eleminiated and votes distributed
+
+round 5...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Cipher              :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    Sparkles            :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    ----
+    Sparkles is eleminiated and votes distributed
+
+round 6...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Cipher              :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    ----
+    Cipher is eleminiated and votes distributed
+
+round 7...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Castorice           :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    ----
+    Castorice is eleminiated and votes distributed
+
+round 8...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Kafka               :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    ----
+    Kafka is eleminiated and votes distributed
+
+round 9...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Cerydra             :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    ----
+    Cerydra is eleminiated and votes distributed
+
+round 10...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Hysilens            :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    ----
+    Hysilens is eleminiated and votes distributed
+
+round 11...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Marchseventh        :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    ----
+    Marchseventh is eleminiated and votes distributed
+
+round 12...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    Silverwolf          :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    ----
+    Silverwolf is eleminiated and votes distributed
+
+round 13...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Feixiao             :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    ----
+    Feixiao is eleminiated and votes distributed
+
+round 14...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Firefly             :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    ----
+    Firefly is eleminiated and votes distributed
+
+round 15...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    TopazandNumby       :   0 votes,   0.0%
+    ----
+    TopazandNumby is eleminiated and votes distributed
+
+round 16...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Blackswan           :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    ----
+    Blackswan is eleminiated and votes distributed
+
+round 17...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Acheon              :   0 votes,   0.0%
+    Herta               :   0 votes,   0.0%
+    ----
+    Acheon is eleminiated and votes distributed
+
+round 18...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    Herta               :   0 votes,   0.0%
+    ----
+    Herta is eleminiated and votes distributed
+
+round 19...
+    Jade                :   1 votes,  50.0%
+    Ruanmei             :   1 votes,  50.0%
+    ----
+    Jade is eleminiated and votes distributed
+
+round 20...
+    Ruanmei             :   1 votes, 100.0%
+    ----
+    Ruanmei is declared elected
+
+tadaa!

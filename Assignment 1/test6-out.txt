@@ -1,0 +1,602 @@
+
+Stage 1
+=======
+read 20 candidates and 905 votes
+voter 905 preferences...
+    rank  1: Hana
+    rank  2: Ria
+    rank  3: Mia
+    rank  4: Pia
+    rank  5: Sky
+    rank  6: Lia
+    rank  7: Ira
+    rank  8: Fay
+    rank  9: Duc
+    rank 10: Cheng
+    rank 11: repus
+    rank 12: Allyx
+    rank 13: Omar
+    rank 14: Kai
+    rank 15: Ellan
+    rank 16: Quin
+    rank 17: Jin
+    rank 18: Nia
+    rank 19: Breyn
+    rank 20: Gwen
+
+Stage 2
+=======
+round 1...
+    Allyx               :  50 votes,   5.5%
+    Breyn               :  49 votes,   5.4%
+    Cheng               :  36 votes,   4.0%
+    Duc                 :  44 votes,   4.9%
+    Ellan               :  49 votes,   5.4%
+    Fay                 :  47 votes,   5.2%
+    Gwen                :  38 votes,   4.2%
+    Hana                :  43 votes,   4.8%
+    Ira                 :  35 votes,   3.9%
+    Jin                 :  51 votes,   5.6%
+    Kai                 :  48 votes,   5.3%
+    Lia                 :  46 votes,   5.1%
+    Mia                 :  44 votes,   4.9%
+    Nia                 :  43 votes,   4.8%
+    Omar                :  50 votes,   5.5%
+    Pia                 :  46 votes,   5.1%
+    Quin                :  53 votes,   5.9%
+    Ria                 :  46 votes,   5.1%
+    Sky                 :  33 votes,   3.6%
+    repus               :  54 votes,   6.0%
+    ----
+    Sky is eliminated and votes distributed
+
+round 2...
+    Allyx               :  54 votes,   6.0%
+    Breyn               :  50 votes,   5.5%
+    Cheng               :  38 votes,   4.2%
+    Duc                 :  45 votes,   5.0%
+    Ellan               :  50 votes,   5.5%
+    Fay                 :  50 votes,   5.5%
+    Gwen                :  39 votes,   4.3%
+    Hana                :  45 votes,   5.0%
+    Ira                 :  39 votes,   4.3%
+    Jin                 :  52 votes,   5.7%
+    Kai                 :  49 votes,   5.4%
+    Lia                 :  47 votes,   5.2%
+    Mia                 :  44 votes,   4.9%
+    Nia                 :  45 votes,   5.0%
+    Omar                :  54 votes,   6.0%
+    Pia                 :  48 votes,   5.3%
+    Quin                :  55 votes,   6.1%
+    Ria                 :  46 votes,   5.1%
+    repus               :  55 votes,   6.1%
+    ----
+    Cheng is eliminated and votes distributed
+
+round 3...
+    Allyx               :  59 votes,   6.5%
+    Breyn               :  52 votes,   5.7%
+    Duc                 :  48 votes,   5.3%
+    Ellan               :  50 votes,   5.5%
+    Fay                 :  51 votes,   5.6%
+    Gwen                :  40 votes,   4.4%
+    Hana                :  47 votes,   5.2%
+    Ira                 :  39 votes,   4.3%
+    Jin                 :  53 votes,   5.9%
+    Kai                 :  50 votes,   5.5%
+    Lia                 :  47 votes,   5.2%
+    Mia                 :  45 votes,   5.0%
+    Nia                 :  48 votes,   5.3%
+    Omar                :  57 votes,   6.3%
+    Pia                 :  52 votes,   5.7%
+    Quin                :  56 votes,   6.2%
+    Ria                 :  53 votes,   5.9%
+    repus               :  58 votes,   6.4%
+    ----
+    Ira is eliminated and votes distributed
+
+round 4...
+    Allyx               :  60 votes,   6.6%
+    Breyn               :  54 votes,   6.0%
+    Duc                 :  50 votes,   5.5%
+    Ellan               :  51 votes,   5.6%
+    Fay                 :  56 votes,   6.2%
+    Gwen                :  41 votes,   4.5%
+    Hana                :  50 votes,   5.5%
+    Jin                 :  57 votes,   6.3%
+    Kai                 :  50 votes,   5.5%
+    Lia                 :  47 votes,   5.2%
+    Mia                 :  47 votes,   5.2%
+    Nia                 :  54 votes,   6.0%
+    Omar                :  60 votes,   6.6%
+    Pia                 :  54 votes,   6.0%
+    Quin                :  57 votes,   6.3%
+    Ria                 :  54 votes,   6.0%
+    repus               :  63 votes,   7.0%
+    ----
+    Gwen is eliminated and votes distributed
+
+round 5...
+    Allyx               :  60 votes,   6.6%
+    Breyn               :  61 votes,   6.7%
+    Duc                 :  53 votes,   5.9%
+    Ellan               :  53 votes,   5.9%
+    Fay                 :  58 votes,   6.4%
+    Hana                :  51 votes,   5.6%
+    Jin                 :  60 votes,   6.6%
+    Kai                 :  51 votes,   5.6%
+    Lia                 :  50 votes,   5.5%
+    Mia                 :  53 votes,   5.9%
+    Nia                 :  55 votes,   6.1%
+    Omar                :  63 votes,   7.0%
+    Pia                 :  57 votes,   6.3%
+    Quin                :  60 votes,   6.6%
+    Ria                 :  57 votes,   6.3%
+    repus               :  63 votes,   7.0%
+    ----
+    Lia is eliminated and votes distributed
+
+round 6...
+    Allyx               :  63 votes,   7.0%
+    Breyn               :  64 votes,   7.1%
+    Duc                 :  55 votes,   6.1%
+    Ellan               :  58 votes,   6.4%
+    Fay                 :  59 votes,   6.5%
+    Hana                :  57 votes,   6.3%
+    Jin                 :  64 votes,   7.1%
+    Kai                 :  54 votes,   6.0%
+    Mia                 :  53 votes,   5.9%
+    Nia                 :  59 votes,   6.5%
+    Omar                :  65 votes,   7.2%
+    Pia                 :  60 votes,   6.6%
+    Quin                :  67 votes,   7.4%
+    Ria                 :  62 votes,   6.9%
+    repus               :  65 votes,   7.2%
+    ----
+    Mia is eliminated and votes distributed
+
+round 7...
+    Allyx               :  66 votes,   7.3%
+    Breyn               :  67 votes,   7.4%
+    Duc                 :  56 votes,   6.2%
+    Ellan               :  61 votes,   6.7%
+    Fay                 :  65 votes,   7.2%
+    Hana                :  61 votes,   6.7%
+    Jin                 :  66 votes,   7.3%
+    Kai                 :  58 votes,   6.4%
+    Nia                 :  64 votes,   7.1%
+    Omar                :  72 votes,   8.0%
+    Pia                 :  63 votes,   7.0%
+    Quin                :  72 votes,   8.0%
+    Ria                 :  66 votes,   7.3%
+    repus               :  68 votes,   7.5%
+    ----
+    Duc is eliminated and votes distributed
+
+round 8...
+    Allyx               :  72 votes,   8.0%
+    Breyn               :  68 votes,   7.5%
+    Ellan               :  64 votes,   7.1%
+    Fay                 :  72 votes,   8.0%
+    Hana                :  67 votes,   7.4%
+    Jin                 :  69 votes,   7.6%
+    Kai                 :  63 votes,   7.0%
+    Nia                 :  67 votes,   7.4%
+    Omar                :  75 votes,   8.3%
+    Pia                 :  66 votes,   7.3%
+    Quin                :  75 votes,   8.3%
+    Ria                 :  69 votes,   7.6%
+    repus               :  78 votes,   8.6%
+    ----
+    Kai is eliminated and votes distributed
+
+round 9...
+    Allyx               :  76 votes,   8.4%
+    Breyn               :  72 votes,   8.0%
+    Ellan               :  69 votes,   7.6%
+    Fay                 :  77 votes,   8.5%
+    Hana                :  73 votes,   8.1%
+    Jin                 :  72 votes,   8.0%
+    Nia                 :  76 votes,   8.4%
+    Omar                :  80 votes,   8.8%
+    Pia                 :  70 votes,   7.7%
+    Quin                :  80 votes,   8.8%
+    Ria                 :  76 votes,   8.4%
+    repus               :  84 votes,   9.3%
+    ----
+    Ellan is eliminated and votes distributed
+
+round 10...
+    Allyx               :  83 votes,   9.2%
+    Breyn               :  81 votes,   9.0%
+    Fay                 :  86 votes,   9.5%
+    Hana                :  77 votes,   8.5%
+    Jin                 :  80 votes,   8.8%
+    Nia                 :  82 votes,   9.1%
+    Omar                :  88 votes,   9.7%
+    Pia                 :  77 votes,   8.5%
+    Quin                :  83 votes,   9.2%
+    Ria                 :  81 votes,   9.0%
+    repus               :  87 votes,   9.6%
+    ----
+    Hana is eliminated and votes distributed
+
+round 11...
+    Allyx               :  94 votes,  10.4%
+    Breyn               :  92 votes,  10.2%
+    Fay                 :  90 votes,   9.9%
+    Jin                 :  82 votes,   9.1%
+    Nia                 :  90 votes,   9.9%
+    Omar                :  93 votes,  10.3%
+    Pia                 :  88 votes,   9.7%
+    Quin                :  95 votes,  10.5%
+    Ria                 :  85 votes,   9.4%
+    repus               :  96 votes,  10.6%
+    ----
+    Jin is eliminated and votes distributed
+
+round 12...
+    Allyx               : 103 votes,  11.4%
+    Breyn               : 103 votes,  11.4%
+    Fay                 : 101 votes,  11.2%
+    Nia                 : 100 votes,  11.0%
+    Omar                : 102 votes,  11.3%
+    Pia                 :  93 votes,  10.3%
+    Quin                : 103 votes,  11.4%
+    Ria                 :  92 votes,  10.2%
+    repus               : 108 votes,  11.9%
+    ----
+    Ria is eliminated and votes distributed
+
+round 13...
+    Allyx               : 117 votes,  12.9%
+    Breyn               : 111 votes,  12.3%
+    Fay                 : 110 votes,  12.2%
+    Nia                 : 114 votes,  12.6%
+    Omar                : 114 votes,  12.6%
+    Pia                 : 106 votes,  11.7%
+    Quin                : 115 votes,  12.7%
+    repus               : 118 votes,  13.0%
+    ----
+    Pia is eliminated and votes distributed
+
+round 14...
+    Allyx               : 132 votes,  14.6%
+    Breyn               : 128 votes,  14.1%
+    Fay                 : 130 votes,  14.4%
+    Nia                 : 132 votes,  14.6%
+    Omar                : 125 votes,  13.8%
+    Quin                : 127 votes,  14.0%
+    repus               : 131 votes,  14.5%
+    ----
+    Omar is eliminated and votes distributed
+
+round 15...
+    Allyx               : 153 votes,  16.9%
+    Breyn               : 153 votes,  16.9%
+    Fay                 : 153 votes,  16.9%
+    Nia                 : 149 votes,  16.5%
+    Quin                : 145 votes,  16.0%
+    repus               : 152 votes,  16.8%
+    ----
+    Quin is eliminated and votes distributed
+
+round 16...
+    Allyx               : 172 votes,  19.0%
+    Breyn               : 184 votes,  20.3%
+    Fay                 : 177 votes,  19.6%
+    Nia                 : 185 votes,  20.4%
+    repus               : 187 votes,  20.7%
+    ----
+    Allyx is eliminated and votes distributed
+
+round 17...
+    Breyn               : 227 votes,  25.1%
+    Fay                 : 226 votes,  25.0%
+    Nia                 : 230 votes,  25.4%
+    repus               : 222 votes,  24.5%
+    ----
+    repus is eliminated and votes distributed
+
+round 18...
+    Breyn               : 298 votes,  32.9%
+    Fay                 : 311 votes,  34.4%
+    Nia                 : 296 votes,  32.7%
+    ----
+    Nia is eliminated and votes distributed
+
+round 19...
+    Breyn               : 444 votes,  49.1%
+    Fay                 : 461 votes,  50.9%
+    ----
+    Fay is declared elected
+
+
+Stage 3
+=======
+round 1...
+    repus               :  54 votes,   6.0%
+    Quin                :  53 votes,   5.9%
+    Jin                 :  51 votes,   5.6%
+    Allyx               :  50 votes,   5.5%
+    Omar                :  50 votes,   5.5%
+    Breyn               :  49 votes,   5.4%
+    Ellan               :  49 votes,   5.4%
+    Kai                 :  48 votes,   5.3%
+    Fay                 :  47 votes,   5.2%
+    Lia                 :  46 votes,   5.1%
+    Pia                 :  46 votes,   5.1%
+    Ria                 :  46 votes,   5.1%
+    Duc                 :  44 votes,   4.9%
+    Mia                 :  44 votes,   4.9%
+    Hana                :  43 votes,   4.8%
+    Nia                 :  43 votes,   4.8%
+    Gwen                :  38 votes,   4.2%
+    Cheng               :  36 votes,   4.0%
+    Ira                 :  35 votes,   3.9%
+    Sky                 :  33 votes,   3.6%
+    ----
+    Sky is eliminated and votes distributed
+
+round 2...
+    Quin                :  55 votes,   6.1%
+    repus               :  55 votes,   6.1%
+    Allyx               :  54 votes,   6.0%
+    Omar                :  54 votes,   6.0%
+    Jin                 :  52 votes,   5.7%
+    Breyn               :  50 votes,   5.5%
+    Ellan               :  50 votes,   5.5%
+    Fay                 :  50 votes,   5.5%
+    Kai                 :  49 votes,   5.4%
+    Pia                 :  48 votes,   5.3%
+    Lia                 :  47 votes,   5.2%
+    Ria                 :  46 votes,   5.1%
+    Duc                 :  45 votes,   5.0%
+    Hana                :  45 votes,   5.0%
+    Nia                 :  45 votes,   5.0%
+    Mia                 :  44 votes,   4.9%
+    Gwen                :  39 votes,   4.3%
+    Ira                 :  39 votes,   4.3%
+    Cheng               :  38 votes,   4.2%
+    ----
+    Cheng is eliminated and votes distributed
+
+round 3...
+    Allyx               :  59 votes,   6.5%
+    repus               :  58 votes,   6.4%
+    Omar                :  57 votes,   6.3%
+    Quin                :  56 votes,   6.2%
+    Jin                 :  53 votes,   5.9%
+    Ria                 :  53 votes,   5.9%
+    Breyn               :  52 votes,   5.7%
+    Pia                 :  52 votes,   5.7%
+    Fay                 :  51 votes,   5.6%
+    Ellan               :  50 votes,   5.5%
+    Kai                 :  50 votes,   5.5%
+    Duc                 :  48 votes,   5.3%
+    Nia                 :  48 votes,   5.3%
+    Hana                :  47 votes,   5.2%
+    Lia                 :  47 votes,   5.2%
+    Mia                 :  45 votes,   5.0%
+    Gwen                :  40 votes,   4.4%
+    Ira                 :  39 votes,   4.3%
+    ----
+    Ira is eliminated and votes distributed
+
+round 4...
+    repus               :  63 votes,   7.0%
+    Allyx               :  60 votes,   6.6%
+    Omar                :  60 votes,   6.6%
+    Jin                 :  57 votes,   6.3%
+    Quin                :  57 votes,   6.3%
+    Fay                 :  56 votes,   6.2%
+    Breyn               :  54 votes,   6.0%
+    Nia                 :  54 votes,   6.0%
+    Pia                 :  54 votes,   6.0%
+    Ria                 :  54 votes,   6.0%
+    Ellan               :  51 votes,   5.6%
+    Duc                 :  50 votes,   5.5%
+    Hana                :  50 votes,   5.5%
+    Kai                 :  50 votes,   5.5%
+    Lia                 :  47 votes,   5.2%
+    Mia                 :  47 votes,   5.2%
+    Gwen                :  41 votes,   4.5%
+    ----
+    Gwen is eliminated and votes distributed
+
+round 5...
+    Omar                :  63 votes,   7.0%
+    repus               :  63 votes,   7.0%
+    Breyn               :  61 votes,   6.7%
+    Allyx               :  60 votes,   6.6%
+    Jin                 :  60 votes,   6.6%
+    Quin                :  60 votes,   6.6%
+    Fay                 :  58 votes,   6.4%
+    Pia                 :  57 votes,   6.3%
+    Ria                 :  57 votes,   6.3%
+    Nia                 :  55 votes,   6.1%
+    Duc                 :  53 votes,   5.9%
+    Ellan               :  53 votes,   5.9%
+    Mia                 :  53 votes,   5.9%
+    Hana                :  51 votes,   5.6%
+    Kai                 :  51 votes,   5.6%
+    Lia                 :  50 votes,   5.5%
+    ----
+    Lia is eliminated and votes distributed
+
+round 6...
+    Quin                :  67 votes,   7.4%
+    Omar                :  65 votes,   7.2%
+    repus               :  65 votes,   7.2%
+    Breyn               :  64 votes,   7.1%
+    Jin                 :  64 votes,   7.1%
+    Allyx               :  63 votes,   7.0%
+    Ria                 :  62 votes,   6.9%
+    Pia                 :  60 votes,   6.6%
+    Fay                 :  59 votes,   6.5%
+    Nia                 :  59 votes,   6.5%
+    Ellan               :  58 votes,   6.4%
+    Hana                :  57 votes,   6.3%
+    Duc                 :  55 votes,   6.1%
+    Kai                 :  54 votes,   6.0%
+    Mia                 :  53 votes,   5.9%
+    ----
+    Mia is eliminated and votes distributed
+
+round 7...
+    Omar                :  72 votes,   8.0%
+    Quin                :  72 votes,   8.0%
+    repus               :  68 votes,   7.5%
+    Breyn               :  67 votes,   7.4%
+    Allyx               :  66 votes,   7.3%
+    Jin                 :  66 votes,   7.3%
+    Ria                 :  66 votes,   7.3%
+    Fay                 :  65 votes,   7.2%
+    Nia                 :  64 votes,   7.1%
+    Pia                 :  63 votes,   7.0%
+    Ellan               :  61 votes,   6.7%
+    Hana                :  61 votes,   6.7%
+    Kai                 :  58 votes,   6.4%
+    Duc                 :  56 votes,   6.2%
+    ----
+    Duc is eliminated and votes distributed
+
+round 8...
+    repus               :  78 votes,   8.6%
+    Omar                :  75 votes,   8.3%
+    Quin                :  75 votes,   8.3%
+    Allyx               :  72 votes,   8.0%
+    Fay                 :  72 votes,   8.0%
+    Jin                 :  69 votes,   7.6%
+    Ria                 :  69 votes,   7.6%
+    Breyn               :  68 votes,   7.5%
+    Hana                :  67 votes,   7.4%
+    Nia                 :  67 votes,   7.4%
+    Pia                 :  66 votes,   7.3%
+    Ellan               :  64 votes,   7.1%
+    Kai                 :  63 votes,   7.0%
+    ----
+    Kai is eliminated and votes distributed
+
+round 9...
+    repus               :  84 votes,   9.3%
+    Omar                :  80 votes,   8.8%
+    Quin                :  80 votes,   8.8%
+    Fay                 :  77 votes,   8.5%
+    Allyx               :  76 votes,   8.4%
+    Nia                 :  76 votes,   8.4%
+    Ria                 :  76 votes,   8.4%
+    Hana                :  73 votes,   8.1%
+    Breyn               :  72 votes,   8.0%
+    Jin                 :  72 votes,   8.0%
+    Pia                 :  70 votes,   7.7%
+    Ellan               :  69 votes,   7.6%
+    ----
+    Ellan is eliminated and votes distributed
+
+round 10...
+    Omar                :  88 votes,   9.7%
+    repus               :  87 votes,   9.6%
+    Fay                 :  86 votes,   9.5%
+    Allyx               :  83 votes,   9.2%
+    Quin                :  83 votes,   9.2%
+    Nia                 :  82 votes,   9.1%
+    Breyn               :  81 votes,   9.0%
+    Ria                 :  81 votes,   9.0%
+    Jin                 :  80 votes,   8.8%
+    Hana                :  77 votes,   8.5%
+    Pia                 :  77 votes,   8.5%
+    ----
+    Hana is eliminated and votes distributed
+
+round 11...
+    repus               :  96 votes,  10.6%
+    Quin                :  95 votes,  10.5%
+    Allyx               :  94 votes,  10.4%
+    Omar                :  93 votes,  10.3%
+    Breyn               :  92 votes,  10.2%
+    Fay                 :  90 votes,   9.9%
+    Nia                 :  90 votes,   9.9%
+    Pia                 :  88 votes,   9.7%
+    Ria                 :  85 votes,   9.4%
+    Jin                 :  82 votes,   9.1%
+    ----
+    Jin is eliminated and votes distributed
+
+round 12...
+    repus               : 108 votes,  11.9%
+    Allyx               : 103 votes,  11.4%
+    Breyn               : 103 votes,  11.4%
+    Quin                : 103 votes,  11.4%
+    Omar                : 102 votes,  11.3%
+    Fay                 : 101 votes,  11.2%
+    Nia                 : 100 votes,  11.0%
+    Pia                 :  93 votes,  10.3%
+    Ria                 :  92 votes,  10.2%
+    ----
+    Ria is eliminated and votes distributed
+
+round 13...
+    repus               : 118 votes,  13.0%
+    Allyx               : 117 votes,  12.9%
+    Quin                : 115 votes,  12.7%
+    Nia                 : 114 votes,  12.6%
+    Omar                : 114 votes,  12.6%
+    Breyn               : 111 votes,  12.3%
+    Fay                 : 110 votes,  12.2%
+    Pia                 : 106 votes,  11.7%
+    ----
+    Pia is eliminated and votes distributed
+
+round 14...
+    Allyx               : 132 votes,  14.6%
+    Nia                 : 132 votes,  14.6%
+    repus               : 131 votes,  14.5%
+    Fay                 : 130 votes,  14.4%
+    Breyn               : 128 votes,  14.1%
+    Quin                : 127 votes,  14.0%
+    Omar                : 125 votes,  13.8%
+    ----
+    Omar is eliminated and votes distributed
+
+round 15...
+    Allyx               : 153 votes,  16.9%
+    Breyn               : 153 votes,  16.9%
+    Fay                 : 153 votes,  16.9%
+    repus               : 152 votes,  16.8%
+    Nia                 : 149 votes,  16.5%
+    Quin                : 145 votes,  16.0%
+    ----
+    Quin is eliminated and votes distributed
+
+round 16...
+    repus               : 187 votes,  20.7%
+    Nia                 : 185 votes,  20.4%
+    Breyn               : 184 votes,  20.3%
+    Fay                 : 177 votes,  19.6%
+    Allyx               : 172 votes,  19.0%
+    ----
+    Allyx is eliminated and votes distributed
+
+round 17...
+    Nia                 : 230 votes,  25.4%
+    Breyn               : 227 votes,  25.1%
+    Fay                 : 226 votes,  25.0%
+    repus               : 222 votes,  24.5%
+    ----
+    repus is eliminated and votes distributed
+
+round 18...
+    Fay                 : 311 votes,  34.4%
+    Breyn               : 298 votes,  32.9%
+    Nia                 : 296 votes,  32.7%
+    ----
+    Nia is eliminated and votes distributed
+
+round 19...
+    Fay                 : 461 votes,  50.9%
+    Breyn               : 444 votes,  49.1%
+    ----
+    Fay is declared elected
+
+tadaa!

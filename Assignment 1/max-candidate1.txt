@@ -1,0 +1,4 @@
+20
+Gwen	Zoe	Serahphine	Lilla	Sparkles	Cipher	Castorice	Kafka	Cerydra	Hysilens	Marchseventh	Silverwolf	Feixiao	Firefly	TopazandNumby	Jade	Blackswan	Acheon	Herta	Ruanmei
+9	14	20	13	2	7	10	18	11	4	5	8	12	19	17	16	3	15	6	1
+19	8	3	10	13	7	5	16	17	15	4	11	14	12	6	1	20	2	9	18
