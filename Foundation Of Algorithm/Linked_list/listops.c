@@ -141,3 +141,15 @@ list_t *get_tail(list_t *list) {
   free(oldhead);
   return list;
 }
+
+int n;
+type_t *tptr;
+/* determine how big the array needs to be today */
+n = ...;
+/* and ask for the right amount of space */
+tptr = (type_t *)malloc(n * sizeof(*tptr));
+assert(tptr);
+/* then use tptr[0..n-1] as an array in the usual manner */
+/* and give it back when finished */
+free(tptr);
+tptr = NULL;
