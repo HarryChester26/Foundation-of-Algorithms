@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 // Define constants for search result status
@@ -6,7 +5,8 @@
 #define BS_NOT_FOUND -1
 
 // Function prototype for binary search
-int binary_search(int A[], int n, int low, int high, int key, int *location);
+int bst_recursive(int A[], int start, int end, int key, int *location);
+int bst_iterative(int A[], int n, int key, int *location);
 
 int main(int argc, char *argv[]) {
   // Sorted array to search in
@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
   int location;                     // Variable to store index of found element
 
   // Search for key 10 in array A
-  int res = binary_search(A, n, 0, n - 1, 10, &location);
+  int res = bst_recursive(A, 0, n - 1, 10, &location);
 
   // Print result based on search outcome
   if (res == BS_FOUND) {
@@ -27,26 +27,34 @@ int main(int argc, char *argv[]) {
   return 0;
 }
 
-// Recursive binary search function
-int binary_search(int A[], int n, int low, int high, int key, int *location) {
-  // Base case: key not found
-  if (low > high) {
+int bst_iterative(int A[], int n, int key, int *location) {
+  int start = 0, end = n - 1;
+  while (start <= end) {
+    int mid = (start + end) / 2;
+
+    if (A[mid] > key) {
+      end = mid - 1;
+    } else if (A[mid] < key) {
+      start = mid + 1;
+    } else {
+      *location = mid;
+      return BS_FOUND;
+    }
+  }
+  return BS_NOT_FOUND;
+}
+
+int bst_recursive(int A[], int start, int end, int key, int *location) {
+  if (start > end)
     return BS_NOT_FOUND;
-  }
 
-  // Calculate middle index
-  int mid = (low + high) / 2;
+  int mid = (start + end) / 2;
 
-  // If middle element is greater than key, search left half
   if (A[mid] > key) {
-    return binary_search(A, n, low, mid - 1, key, location);
-  }
-  // If middle element is less than key, search right half
-  else if (A[mid] < key) {
-    return binary_search(A, n, mid + 1, high, key, location);
-  }
-  // If middle element matches key, store location and return success
-  else {
+    return bst_recursive(A, start, mid - 1, key, location);
+  } else if (A[mid] < key) {
+    return bst_recursive(A, mid + 1, end, key, location);
+  } else {
     *location = mid;
     return BS_FOUND;
   }

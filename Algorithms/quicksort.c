@@ -1,92 +1,103 @@
-
-#include <assert.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
-typedef int data_t; // Define a type alias for int
+typedef int data_t;
 
-// Function declarations
-int cmp(data_t *p1, data_t *p2);
-void swap(data_t *p1, data_t *p2);
-int choose_pivot(int A[], int n);
-void partition(int A[], int n, data_t pivot, data_t *first_qe,
-               data_t *first_gt);
-void quicksort(int A[], int n);
+int cmp(data_t *d1, data_t *d2);
+void swap(data_t *t1, data_t *t2);
+data_t choose_pivot(data_t A[], int n);
+void partition(data_t A[], int n, data_t pivot, int *first_fe, int *first_fg);
+void quick_sort(int A[], int n);
 
 int main(int argc, char *argv[]) {
-  // Sample array to sort
-  int arr[] = {0, 5, 3, 8, 6, 2, 7, 4, 1, 9};
-  int n = sizeof(arr) / sizeof(arr[0]); // Calculate number of elements
+  int A[10] = {10, 3, 65, 2, 2, 99, 100, 106, 36, 95};
+  quick_sort(A, 10);
 
-  quicksort(arr, n); // Sort the array using quicksort
-
-  // Print the sorted array
-  for (int i = 0; i < n; i++) {
-    printf("%d ", arr[i]);
+  for (int i = 0; i < 10; i++) {
+    printf("%d ", A[i]);
   }
-
-  return 0;
 }
 
-// Comparison function: returns negative if *p1 < *p2, positive if *p1 > *p2, 0
-// if equal
-int cmp(data_t *p1, data_t *p2) { return (*p1 - *p2); }
-
-// Swap function: swaps the values pointed to by p1 and p2
-void swap(data_t *p1, data_t *p2) {
-  data_t temp = *p1;
-  *p1 = *p2;
-  *p2 = temp;
+int cmp(data_t *d1, data_t *d2) {
+  if (*d1 < *d2)
+    return -1;
+  else if (*d1 > *d2)
+    return 1;
+  else
+    return 0;
 }
 
-// Choose pivot function: selects a random element from the array as the pivot
-int choose_pivot(int A[], int n) { return A[rand() % n]; }
+void swap(data_t *t1, data_t *t2) {
+  int temp = *t1;
+  *t1 = *t2;
+  *t2 = temp;
+}
 
-// Partition function: divides the array into three parts:
-// elements less than pivot, equal to pivot, and greater than pivot
-void partition(int A[], int n, data_t pivot, data_t *first_qe,
-               data_t *first_gt) {
-  int next = 0, fe = 0, fg = n, outcome;
+data_t choose_pivot(data_t A[], int n) { return A[rand() % n]; }
 
-  while (next < fg) {
-    // Compare current element with pivot
-    if ((outcome = cmp(A + next, &pivot)) < 0) {
-      // Element is less than pivot: move to front
-      swap(A + next, A + fe);
-      next++;
-      fe++;
-    } else if ((outcome = cmp(A + next, &pivot)) > 0) {
-      // Element is greater than pivot: move to end
-      fg--;
+void partition(data_t A[], int n, data_t pivot, int *first_fe,
+               int *first_fg) { // O(n)
+  int next = 0, fe = 0, fg = n - 1;
+  while (next <= fg) {
+    int outcome = cmp(A + next, &pivot);
+    if (outcome > 0) {
       swap(A + next, A + fg);
+      fg = fg - 1;
+    } else if (outcome < 0) {
+      swap(A + next, A + fe);
+      next = next + 1;
+      fe = fe + 1;
     } else {
-      // Element is equal to pivot: leave in place
-      next++;
+      next = next + 1;
     }
   }
-
-  // Ensure partitioning is complete
-  assert(next >= fg);
-  *first_qe = fe; // Index of first element equal to pivot
-  *first_gt = fg; // Index of first element greater than pivot
+  *first_fe = fe;
+  *first_fg = fg;
 }
 
-// Quicksort function: recursively sorts the array
-void quicksort(int A[], int n) {
-  data_t pivot, first_qe, first_gt;
-
-  // Base case: array of size 0 or 1 is already sorted
-  if (n <= 1) {
+void quick_sort(data_t A[], int n) { // O(log n);
+  if (n <= 1)
     return;
-  }
 
-  // Choose a pivot and partition the array
-  pivot = choose_pivot(A, n);
-  partition(A, n, pivot, &first_qe, &first_gt);
-
-  // Recursively sort elements less than pivot
-  quicksort(A, first_qe);
-
-  // Recursively sort elements greater than pivot
-  quicksort(A + first_gt, n - first_gt);
+  data_t pivot = choose_pivot(A, n);
+  int fe, fg;
+  partition(A, n, pivot, &fe, &fg);
+  quick_sort(A, fe);
+  quick_sort(A + fg + 1, n - fg - 1);
 }
+
+// O(n log n): average, O(n^2): worst case
+
+/*
+int choose_pivot(data_t A[], int n) { return A[rand() % n]; }
+
+void partition(data_t A[], int n, data_t pivot, int *first_fe, int *first_fg) {
+  int fe = 0, next = 0, fg = n - 1;
+  while (next <= fg) {
+    if (cmp(A + next, &pivot) > 0) {
+      swap(A + next, A + fg);
+      fg = fg - 1;
+    } else if (cmp(A + next, &pivot) < 0) {
+      swap(A + next, A + fe);
+      fe = fe + 1;
+      next = next + 1;
+    } else {
+      next = next + 1;
+    }
+  }
+  *first_fe = fe;
+  *first_fg = fg;
+}
+
+void quick_sort(data_t A[], int n) {
+  if (n <= 1)
+    return;
+
+  int pivot = choose_pivot(A, n);
+  int fe, fg;
+  partition(A, n, pivot, &fe, &fg);
+  quick_sort(A, fe);
+  quick_sort(A + fg + 1, n - fg - 1);
+}
+*/
